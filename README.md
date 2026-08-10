@@ -4,3 +4,6 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=kir58_python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=kir58_python-project-49)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=kir58_python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=kir58_python-project-49)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=kir58_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=kir58_python-project-49)
+
+
+[![asciicast](https://asciinema.org/a/1262767.svg)](https://asciinema.org/a/1262767)
