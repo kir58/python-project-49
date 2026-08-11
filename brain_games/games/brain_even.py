@@ -8,6 +8,6 @@ def is_even(n: int) -> bool:
 
 
 def even_game():
-    question = generate_random_int()
-    answer = 'yes' if is_even(question) else 'no'
-    return {'question': str(question), 'answer': answer}
+    n = generate_random_int()
+    answer = 'yes' if is_even(n) else 'no'
+    return {'question': str(n), 'answer': answer}

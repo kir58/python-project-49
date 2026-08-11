@@ -4,3 +4,7 @@ from brain_games.games.brain_progression import description, progression_game
 
 def main():
     game_flow(description, progression_game)
+
+
+if __name__ == "__main__":
+    main()
