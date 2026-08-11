@@ -5,8 +5,11 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=kir58_python-project-49&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=kir58_python-project-49)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=kir58_python-project-49&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=kir58_python-project-49)
 
-***even***
+***brain-even***
 [![asciicast](https://asciinema.org/a/1262767.svg)](https://asciinema.org/a/1262767)
 
-***gsd***
+***brain-gsd***
 [![asciicast](https://asciinema.org/a/1262852.svg)](https://asciinema.org/a/1262852)
+
+***brain-progression***
+[![asciicast](https://asciinema.org/a/1262855.svg)](https://asciinema.org/a/1262855)
